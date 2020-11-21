@@ -23,8 +23,5 @@ int main(int argc, char *argv[]) {
       printf("%3d ", i + 1);
     }
   }
-  /*int space_day = (month_days[month-1]-(7-start_day))%7;*/
-  /*for(int i=0;i<space_day;i++)*/
-  /*printf("    ");*/
   return 0;
 }
