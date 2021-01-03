@@ -18,9 +18,8 @@
 
 ## No passed
 - Caesar Cipher Encoder (83/100)
+- 42 poker hand (26/100)
 - 50-Big-Big-Numbers-Addition (70/100)
 - 60. HAPPY PARTY TRAIN (Run time error.)
 
 ## Todo list
-- 42.poker hand
-- 55. Look Up the Word in the Dictionary
