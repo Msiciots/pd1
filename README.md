@@ -13,6 +13,7 @@
 - 53
 - 54 Look Up the Word in the Dictionary
 - 55
+- 57 Stack
 - 58 Throwing Cards Away
 - 59
 
