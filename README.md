@@ -3,6 +3,7 @@
 - Combination Again
 - 0與1的奇蹟 - Kiseki of 0 & 1
 - Year 2020 Calendar
+- 24 Trim Redundant Spaces
 - 42
 - 46 Spread the Color
 - 47
